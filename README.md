@@ -1,49 +1,35 @@
-<b>HTML Introduction</b>
-<ul>
-<li>https://www.w3schools.com/html/html_intro.asp</li>
-</ul>
+##### HTML Introduction
+- https://www.w3schools.com/html/html_intro.asp
 
 <br>
 
-<b>HTML Basic</b>
-<ul>
-<li>https://developer.mozilla.org/en-US/docs/Web/HTML</li>
-<li>https://developer.mozilla.org/en-US/docs/Web/HTML#reference</li>
-</ul>
+##### HTML Basic
+- https://developer.mozilla.org/en-US/docs/Web/HTML
+- https://developer.mozilla.org/en-US/docs/Web/HTML#reference
 
 <br>
 
-<b>Meta Tag</b>
-<ul>
-<li>https://www.brightedge.com/glossary/are-meta-tags-important</li>
-<li>https://www.w3schools.com/tags/tag_meta.asp</li>
-</ul>
+##### Meta Tag
+- https://www.brightedge.com/glossary/are-meta-tags-important
+- https://www.w3schools.com/tags/tag_meta.asp
 
 <br>
 
-<b>HTML Elements</b>
-<ul>
-<li>https://developer.mozilla.org/en-US/docs/Web/HTML/Element</li>
-</ul>
+##### HTML Elements
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
 <br>
 
-<b>HTML Attribute</b>
-<ul>
-<li>https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes</li>
-</ul>
+##### HTML Attribute
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
 
 <br>
 
-<b>Code Quality</b>
-<ul>
-<li>https://courses.cs.washington.edu/courses/cse154/codequalityguide/html/</li>
-<li>https://www.w3schools.com/html/html5_syntax.asp</li>
-</ul>
+##### Code Quality
+- https://courses.cs.washington.edu/courses/cse154/codequalityguide/html/
+- https://www.w3schools.com/html/html5_syntax.asp
 
 <br>
 
-<b>HTML Validators</b>
-<ul>
-<li>https://validator.w3.org/</li>
-</ul>
+##### HTML Validators
+- https://validator.w3.org/
