@@ -40,3 +40,10 @@
 <li>https://courses.cs.washington.edu/courses/cse154/codequalityguide/html/</li>
 <li>https://www.w3schools.com/html/html5_syntax.asp</li>
 </ul>
+
+<br>
+
+<b>HTML Validators</b>
+<ul>
+<li>https://validator.w3.org/</li>
+</ul>
